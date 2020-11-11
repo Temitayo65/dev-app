@@ -99,6 +99,9 @@
 		EB4B6F3E255C2D7C00DE8455 /* dev-app */ = {
 			isa = PBXGroup;
 			children = (
+				EB4B6F74255C63A800DE8455 /* Model */,
+				EB4B6F73255C639F00DE8455 /* View */,
+				EB4B6F72255C639300DE8455 /* Controller */,
 				EB4B6F3F255C2D7C00DE8455 /* AppDelegate.swift */,
 				EB4B6F41255C2D7C00DE8455 /* SceneDelegate.swift */,
 				EB4B6F43255C2D7C00DE8455 /* ViewController.swift */,
@@ -126,6 +129,27 @@
 				EB4B6F63255C2D8000DE8455 /* Info.plist */,
 			);
 			path = "dev-appUITests";
+			sourceTree = "<group>";
+		};
+		EB4B6F72255C639300DE8455 /* Controller */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Controller;
+			sourceTree = "<group>";
+		};
+		EB4B6F73255C639F00DE8455 /* View */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		EB4B6F74255C63A800DE8455 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
